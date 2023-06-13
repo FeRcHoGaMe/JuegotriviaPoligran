@@ -1,3 +1,33 @@
+/**
+ * 
+Calderón Contreras Jessica Lorena 
+
+Scrum Master 
+
+Jlcalderon@poligran.edu.co 
+
+Ruiz Méndez Sergio Manuel    
+
+Product Owner 
+
+smruiz@poligran.edu.co 
+
+Forero Beltrán Luis Fernando 
+
+Analista 
+
+Lfeforero@poligran.edu.co 
+
+Carreño Prieto Jhonatan Arturo   
+
+Administrador BD 
+
+jarcarreno@poligran.edu.co   
+
+
+ * JavaFX App
+ */
+
 package com.mycompany.juegotrivia;
 
 import javafx.application.Application;
@@ -8,9 +38,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-/**
- * JavaFX App
- */
+
 public class App extends Application {
 
     private static Scene scene;
