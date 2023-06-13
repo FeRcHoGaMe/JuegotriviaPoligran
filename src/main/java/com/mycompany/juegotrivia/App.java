@@ -1,27 +1,19 @@
 /**
  * 
 Calderón Contreras Jessica Lorena 
-
 Scrum Master 
-
 Jlcalderon@poligran.edu.co 
 
 Ruiz Méndez Sergio Manuel    
-
 Product Owner 
-
 smruiz@poligran.edu.co 
 
-Forero Beltrán Luis Fernando 
-
+* Forero Beltrán Luis Fernando 
 Analista 
-
 Lfeforero@poligran.edu.co 
 
 Carreño Prieto Jhonatan Arturo   
-
 Administrador BD 
-
 jarcarreno@poligran.edu.co   
 
 
